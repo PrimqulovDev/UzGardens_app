@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UzGardens app</string>
+
+    <string name="label_app_title">uzGardens</string>
+    <string name="label_categories_title">Browse by Categories</string>
+
+    <string name="fakeToken">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZV9udW1iZXIiOiIrOTk4OTk3OTM5OTk3IiwiaWF0IjoxNjIwNDU0MDE3LCJleHAiOjE2NTIwMTE2MTd9.325CNy7q--UAy_fsK9iKzROb3B8WXVxhR9mNe6GMHQ0</string>
+    <string name="defaultTokenType">Bearer</string>
+</resources>
